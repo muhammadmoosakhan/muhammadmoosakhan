@@ -1,8 +1,1 @@
-👋 Hi, I’m @muhammadmoosakhan
-🎓 AI undergraduate at SZABIST, currently in my third year
-🤖 Passionate about robotics, machine learning, deep learning, and computer vision
-🧠 Building intelligent systems 
-📚 Actively upskilling with DeepLearning.ai courses 
-🔍 Looking to collaborate on impactful Python-based AI/ML projects
-📫 Reach me: linkedin.com/in/muhammad-moosa-khan/
-⚡ Fun fact: Whether deep in code or jamming on guitar, I love translating ideas into real experiences
+🤖 Hi, I’m @muhammadmoosakhan — a final-year AI undergraduate at SZABIST with a strong passion for robotics, machine learning, deep learning, and computer vision. I enjoy building intelligent systems and am currently sharpening my skills through DeepLearning.ai courses. I'm open to collaborating on impactful Python-based AI/ML projects. When I'm not coding, you’ll find me jamming on my guitar or turning ideas into real-world experiences. Connect with me on LinkedIn: linkedin.com/in/muhammad-moosa-khan/
